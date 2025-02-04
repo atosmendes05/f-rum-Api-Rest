@@ -1,4 +1,5 @@
 # Fórum API Restful
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 ## Descrição
 
