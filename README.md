@@ -65,13 +65,5 @@ A API utiliza autenticação via JWT e segue o modelo stateless. Para acessar en
 ```http
 Authorization: Bearer {seu_token_jwt}
 ```
-
-## Contribuição
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
-3. Faça commit das suas alterações (`git commit -m 'Adicionando nova funcionalidade'`)
-4. Envie para o repositório (`git push origin minha-feature`)
-5. Abra um Pull Request
-
 ---
 Criado por [Atos Mendes](https://github.com/atosmendes05).
