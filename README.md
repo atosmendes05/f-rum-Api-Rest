@@ -73,5 +73,5 @@ Authorization: Bearer {seu_token_jwt}
 4. Envie para o repositório (`git push origin minha-feature`)
 5. Abra um Pull Request
 
-## Licença
-Este projeto está sob a licença MIT.
+---
+Criado por [Atos Mendes](https://github.com/atosmendes05).
